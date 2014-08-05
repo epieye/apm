@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    {"id": "null", "label": "", "x": "10", "y": 2.6, "size": 0}
+  ],
+  "edges": [
+    {"id": "nule",   "source": "atla", "target": "atla"}
+  ]
+}

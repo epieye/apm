@@ -1,0 +1,3 @@
+create table flows (ts timestamp, path varchar(256), tput float, units varchar(4));
+
+insert into flows values ("2014-02-28 19:00:30", "hous-cr5 elpa-cr5 lbl-mr2", "10", "Mbps");
