@@ -1,0 +1,12 @@
+;<?php
+;die(); // For security
+;/*
+
+user_name = "username"
+password = "password"
+database = "dbname"
+server = "server:port"
+
+;*/
+
+;?>
